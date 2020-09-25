@@ -1,2 +1,6 @@
 This is for cubstart
+<<<<<<< HEAD
 This is not the same as the conflicting error.
+=======
+This should conflict
+>>>>>>> 8e327a5815a79a7512c4d1cd4406500d4ef283de
